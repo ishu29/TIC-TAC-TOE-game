@@ -81,7 +81,7 @@ Dynamic Updates:
 2. Pygame (for game graphics and interaction)
 3. Rule-Based AI (for computer moves)
 
-# Key Code Component
+# Key Code Components
 
 Square Class:
 
